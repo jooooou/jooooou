@@ -1,5 +1,5 @@
 # 💫 About Me:
-Salve! 👋<br>🔭 Estudando Front-end e Back-end<br>👯 Buscando entrar no mercado como Desenvolvedor Junior
+Salve! 👋<br>🔭 Estudando Front-end e Back-end<br>👯 Buscando entrar no mercado como Desenvolvedor
 
 
 ## 🌐 Socials:
