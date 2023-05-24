@@ -1,5 +1,9 @@
 # 💫 About Me:
-Salve! 👋<br>🔭 Estudando Front-end e Back-end<br>👯 Buscando entrar no mercado como Desenvolvedor
+Salve! 👋<br>🔭 Estudando Front-end e Back-end<br>👯 Buscando entrar no mercado como Desenvolvedor <br>
+
+## 🔱 Badges:
+![image](https://github.com/jooooou/jooooou/assets/106356096/45dc2334-8fc5-4579-814f-b0ce8ad19e35)
+
 
 
 ## 🌐 Socials:
